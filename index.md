@@ -7,7 +7,7 @@ tagline:
 Diplom-Informatiker (FH) - Computer Science in Media (comparable to a B.S.C)
 
 ## Work Experience
-#### 2010 - present, Senior Software Engineer, ninemsn`
+#### Feb 2010 - present, Senior Software Engineer, ninemsn`
 
 `Engineering Team`
 
@@ -33,10 +33,10 @@ I was part of a small team developing .NET for a mobile marketing and advertisin
 In the content syndication development team my role was to identify and understand the needs of internal and external customers.
 Part of my role was to develop a content management module for video on demand schedules covering the schedule ingestion, management and syndication using jQuery UI and drag & drop.
 
-#### Oct 2009-Jan 2010, Contractor, Tourism Australia
+#### Oct 2009 - Jan 2010, Contractor, Tourism Australia
 User Acceptance Testing of a tourism e-learning web site, coordinating bug fixes with third parties and Issue tracking.
 
-#### Mar 2009 – Oct 2009 Systems Administrator, ninemsn
+#### Mar 2009 - Oct 2009 Systems Administrator, ninemsn
 Release Management of a mobile phone marketing and advertising platform
 
 #### Aug 2008 – Dec 2008, Contractor Software Developer, Vodafone R&D
