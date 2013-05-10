@@ -49,4 +49,5 @@ The tool also included a server side component to remotely execute aerospace rel
 ## Publications
 In my diplom thesis we explored the world of context-sensitive mobile applications using semantic web languages.
 The publication is only available in german.
+
 [Kontextsensitive Dienste auf Basis von Open-Source-Software](http://subs.emis.de/LNI/Proceedings/Proceedings154/gi-proc-154-242.pdf)
