@@ -5,11 +5,12 @@ tagline:
 ---
 ## Passion
 
-I'm a passionate Software Enigneer known for introducing new technologies and development practices into operations and development teams.
+I'm a passionate Software Engineer known for introducing new technologies and development practices into operations and development teams.
 
-Known to deliver tools and web application built utilizing TDD, continuous delivery, agile and lean methodologies. With a sharp attention to detail, I am known to ask questions and anticipate problems before they occur.
+Known to deliver tools and web applications built utilizing TDD, continuous delivery, agile and lean methodologies. With a sharp attention to detail, I am known to ask questions and anticipate problems before they occur.
+I enjoy learning new technologies and approaches to improve the way software is built and released. 
 
-I enjoy constantly learning new technologies and approaches to improve the way software is built and released. I’m very passionate about performance improvements always seeking ways to accelerate compile and build times as well as end user performance.
+I’m very passionate about automation and contious delivery, from scripting to improve any manual interaction to blue/green deployments.
 
 Experienced in a broad range of technologies including .NET, Java, Ruby and AWS.
 
@@ -29,7 +30,7 @@ In October 2012 we launched Australia's biggest [news](http://news.ninemsn.com.a
 
 In this project I championed the release management of the CMS and the news website, working closely with the operations team and the lead architect of the project to achieve continues delivery and infrastructure as code.
 
-I also worked on functional feauters, i.e. developing end user components of the news website, fully test driven using MVC3.
+I also worked on functional features, i.e. developing end user components of the news website, fully test driven using MVC3.
 
 During the project the DevOps movement came to life which allowed us to automate everything from the infrastructure setup to push button deployments of the application, while still being highly available.
 As part of this project we implemented a package manager for windows, written in .NET to rollout IIS websites, databases and windows services using AWS S3 as a distribution method and PowerShell to install the packages.
@@ -63,3 +64,6 @@ In my diplom thesis I explored the world of context aware mobile applications us
 The publication is only available in german.
 
 [Kontextsensitive Dienste auf Basis von Open-Source-Software](http://subs.emis.de/LNI/Proceedings/Proceedings154/gi-proc-154-242.pdf)
+
+## Contact
+Contact me via [LinkedIn](http://www.linkedin.com/profile/view?id=61430665) or [email](<mailto:maxbergmann@gmail.com>)
