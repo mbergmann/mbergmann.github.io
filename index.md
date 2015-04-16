@@ -14,11 +14,12 @@ I’m very passionate about automation and contious delivery, from scripting to 
 
 Experienced in a broad range of technologies including .NET, Java, Ruby and AWS.
 
-## Education
-Diplom-Informatiker (FH) - Computer Science in Media (comparable to a B.S.C)
-
 ## Work Experience
-#### Feb 2010 - Sep 2013, Senior Software Engineer, ninemsn
+#### April 2014 - Present, Build Engineer, Amazon Web Services, Vancouver
+
+In my current role at Amazon I'm working on RDS Sql Server. In particular focusing on build, development and deployment technologies and practices as well as overall feature development. Prior to that I was responsible for building the Silk Web browser for the Kindle Fire Tablet and Fire Phone devices.
+
+#### Feb 2010 - Sep 2013, Senior Software Engineer, ninemsn, Sydney
 
 `Engineering Team`
 
@@ -46,18 +47,21 @@ During this time I implemented custom solutions for the platform i.e. online and
 In the content syndication development team my role was to identify and understand the needs of internal and external customers.
 Part of my role was to develop a content management module for video on demand schedules covering the schedule ingestion, management and syndication using jQuery UI and drag & drop.
 
-#### Oct 2009 - Jan 2010, Contractor, Tourism Australia
+#### Oct 2009 - Jan 2010, Contractor, Tourism Australia, Sydney
 User Acceptance Testing of a tourism e-learning web site, coordinating bug fixes with third parties and Issue tracking.
 
-#### Mar 2009 - Oct 2009 Systems Administrator, ninemsn
+#### Mar 2009 - Oct 2009 Systems Administrator, ninemsn, Sydney
 Dealt with the release management of a mobile phone marketing and advertising platform, developed a deployment tool in .NET, which allowed co-workers to deploy changes to the platform in an automated fashion.
 
-#### Aug 2008 – Dec 2008, Contractor Software Developer, Vodafone R&D
+#### Aug 2008 – Dec 2008, Contractor Software Developer, Vodafone R&D, Bremen
 As part of small team we designed and developed a mobile auction portal using Java and Spring,
 
-#### 2004 – 2008, Software developer, CeBeNetwork GmbH
+#### 2004 – 2008, Software developer, CeBeNetwork GmbH, Bremen
 At CeBeNetwork I build a custom tool for aerospace engineers to provide a user-friendly environment for aircraft performance calculations using Java and SWING.
 The tool also included a server side component to remotely execute aerospace related calculations in Fortran and C++ on Unix based systems.
+
+## Education
+Diplom-Informatiker (FH) - Computer Science in Media (comparable to a B.S.C)
 
 ## Publications
 In my diplom thesis I explored the world of context aware mobile applications using semantic web languages.
